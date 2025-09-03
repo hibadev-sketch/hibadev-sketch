@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    int resultat = 3 * 5;
+    printf("%d\n", resultat);
+    return 0;
+}
